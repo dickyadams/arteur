@@ -5,16 +5,16 @@ html {
 }
 body {
     /* Margin bottom by footer height */
-    background-color: #E7E4E4;
+    background-color: #fff;
     margin-bottom: 50px;
-    color: #424A5D;
+    color: #030715;
     font-family: 'Vollkorn', serif;
     overflow-x: hidden;
     width:100%;
 
 }
 a, a:hover {
-    color: #424A5D;
+    color: #030715;
     text-decoration: none;
 }
 body > .container {
@@ -26,12 +26,12 @@ body > .container {
 
 /***********Navbar Home View*********/
 .navbar-default {
-    background-color: #424A5D;
+    background-color: #030715;
 }
 nav .btn-default, footer .btn-default {
-    background-color: #FFD777;
+    background-color: #030715;
     border:  none;
-    color: #424A5D;
+    color: #030715;
     border-radius: 0;
     font-family: 'Vollkorn', serif;
     font-weight: 700;
@@ -88,7 +88,7 @@ nav .btn-default:hover, footer .btn-default:hover {
     width: 100%;
     /* Set the fixed height of the footer here */
     height: 50px;
-    background-color: #424A5D;
+    background-color: #030715;
 }
 /***********End Footer View*********/
 
@@ -98,10 +98,10 @@ h3 {
     text-decoration: underline;
 }
 .thumbnail h5 {
-    color: #424A5D;
+    color: #030715;
 }
 h5.tags, h4.tags {
-    color: #FF865C;
+    color: #030715;
 }
 .thumbnail {
     background-color: #F2F2F2;
@@ -116,7 +116,7 @@ img {
     border: 1px solid rgba(66, 74, 93, 0.36);
 }
 .btn-info {
-    background-color: #FFD777;
+    background-color: #030715;
     border: none;
     border-radius: 0;
     color: #424A5D;
@@ -128,8 +128,8 @@ img {
 
 }
 .btn-info .badge {
-    color: #FFD777;
-    background-color: #424A5D;
+    color: #030715;
+    background-color: #030715;
 }
 .glyphicon {
     letter-spacing: 1px;
@@ -145,16 +145,16 @@ img {
     font-weight: 700;
 }
 .createReview:hover, .btn-primary:hover {
-    background-color:#424A5D;
-    color: #FFD777;
+    background-color:#030715;
+    color: #030715;
 }
 .share:hover, .share:active {
     background-color: #424A5D;
-    color: #FFD777;
+    color: #030715;
 }
 .btn-primary {
-    background-color: #FFD777;
-    color: #424A5D;
+    background-color: #030715;
+    color: #030715;
     border: none;
     font-family: 'Vollkorn', serif;
     font-weight: 700;
@@ -212,8 +212,8 @@ hr {
 }
 
 .delete:hover{
-    background-color:#424A5D;
-    color: #FFD777;
+    background-color:#030715;
+    color: #030715;
 }
 
 #map {
@@ -224,5 +224,5 @@ hr {
     height: 310px !important;
 }
 a.social {
-    color: #424A5D;
+    color: #030715;
 }
